@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im a backend engineering student at Reskill Americans!
+I'm a data and cloud enthusiast.
 
 <!--
 **lcarter505/lcarter505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
