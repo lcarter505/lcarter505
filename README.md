@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a data and cloud enthusiast.
+I'm a data and cloud enthusiast. 💻📊📈
 
 <!--
 **lcarter505/lcarter505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
